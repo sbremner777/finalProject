@@ -1,5 +1,5 @@
 .header-navbar {
-    background-color: #001845 !important;
+    background-color: #006851 !important;
 }
 
 .header-color {
@@ -8,7 +8,7 @@
 
 .uk-navbar-container {
     width: 100%;
-    background-color: #001845 !important;
+    background-color: #006851 !important;
     color: #ffffff !important;
 }
 .logo {
@@ -45,7 +45,7 @@ hr {
 
 .signUpButton {
     color: #ffffff !important;
-    background-color: #001845 !important;
+    background-color: #006851 !important;
     border-radius: 5px !important;
     width: 20% !important;
     text-transform: capitalize !important;
@@ -59,6 +59,15 @@ hr {
     width: max-content;
     max-width: 100%;
     box-sizing: border-box;
+}
+
+.btn {
+    background-color: #008568;
+    text-transform: capitalize;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 10px 80px 13px 80px;
 }
 
 @media only screen and (max-width: 640px) {
